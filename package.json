@@ -1,0 +1,6 @@
+{
+  "name": "stella-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "星桥 Stella · Vercel 免费代理，转发讯飞星辰 MaaS 并补 CORS"
+}
